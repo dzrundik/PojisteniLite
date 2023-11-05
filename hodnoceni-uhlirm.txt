@@ -1,0 +1,4 @@
+Byly odevzdány jenom prázdné třídy Evidence, Klient, Main.
+Je možné, že nastala chyba pří uploadování na GitHub. Nebo je důvod jiný. Každopádně je vypracování nedostatečné.
+
+Pokud byste potřebovali s čímkoli pomoci, naplánujte si s námi konzultaci, rádi vám poradíme!
