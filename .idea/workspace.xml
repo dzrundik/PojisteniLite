@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35c9be99-0af8-4e2c-a151-dee2cacdf1e0" name="Changes" comment="" />
+    <list default="true" id="35c9be99-0af8-4e2c-a151-dee2cacdf1e0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PojisteniLite/Evidence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PojisteniLite/Evidence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PojisteniLite/Klient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PojisteniLite/Klient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PojisteniLite/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PojisteniLite/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +18,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2U7YFfiaElneprvEI2jkfnNBuSe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -24,9 +29,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Jirka/Dropbox/Java"
   }
 }]]></component>
@@ -40,5 +47,16 @@
       <updated>1692291987776</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
